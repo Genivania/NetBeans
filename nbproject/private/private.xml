@@ -14,9 +14,8 @@
         <group>
             <file>file:/C:/Users/22282083/eclipse-workspace/sistema-agendamento/src/br/senai/sp/jandira/ui/HomeFrame.java</file>
             <file>file:/C:/Users/22282083/eclipse-workspace/sistema-agendamento/src/br/senai/sp/jandira/ClinicaApp.java</file>
-            <file>file:/C:/Users/22282083/eclipse-workspace/sistema-agendamento/src/br/senai/sp/jandira/ui/PlanoDeSaudeDialog.java</file>
             <file>file:/C:/Users/22282083/eclipse-workspace/sistema-agendamento/src/br/senai/sp/jandira/model/PlanoDeSaude.java</file>
-            <file>file:/C:/Users/22282083/eclipse-workspace/sistema-agendamento/src/br/senai/sp/jandira/dao/PlanoDeSaudeDAO.java</file>
+            <file>file:/C:/Users/22282083/eclipse-workspace/sistema-agendamento/src/br/senai/sp/jandira/ui/MedicoDialog.java</file>
             <file>file:/C:/Users/22282083/eclipse-workspace/sistema-agendamento/src/br/senai/sp/jandira/dao/MedicoDAO.java</file>
             <file>file:/C:/Users/22282083/eclipse-workspace/sistema-agendamento/src/br/senai/sp/jandira/model/Pessoa.java</file>
             <file>file:/C:/Users/22282083/eclipse-workspace/sistema-agendamento/src/br/senai/sp/jandira/model/Medico.java</file>
